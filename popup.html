@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Password Generator</title>
+</head>
+<body>
+    <h2>Password Generator</h2>
+    Enter in your phrase here:<br>
+    <input type="text" name="phrase" id="phrase" size="75" autofocus="autofocus" placeholder="Enter your password phrase here"/>
+    <button type="button" id="makePassword">Generate Password</button>
+    </br></br>
+    <table width="100%">
+        <tr>
+            <td width="25%">Your password:</td>
+            <td width="25%"><input type="password" name="pwd1" id="pwd1" readonly value=""/><input type="text" name="pwd2" id="pwd2" readonly value=""/></td>
+            <td width="10%"><button type="button" id="view">View</button></td>
+            <td width="15%">Strength:</td>
+            <td width="25%"><div id="temp">&nbsp;</div></td>
+        </tr>
+        <tr>
+            <td colspan="6"><div id="status">&nbsp;</div></td>
+        </tr>
+		<tr>
+			<td colspan="6"><div align="right">Created by: Andy Boell</div></td>
+		</tr>
+    </table>
+    <script src="popup.js"></script>
+</body>
+</html>

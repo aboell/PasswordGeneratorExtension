@@ -14,7 +14,9 @@ Password Generator Extension is a simple tool that end users can use in developi
 
 ## Usage
 
-Download four files and place them in a dedicated directory.  The files to download are:
+There are two ways of using this extension, just download the file PMG.crx and drag it to the extensions page, or create the package yourelf by downloading the files
+
+To create the package yourself, download four files and place them in a dedicated directory.  The files to download are:
 * icon.png
 * manifest.json
 * popup.html

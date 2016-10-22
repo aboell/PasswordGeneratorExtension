@@ -62,8 +62,7 @@ When the Generate Password button is clicked, the phrase entered above is parsed
 When the View button is clicked, the password generated is displayed.  If the view button is pressed again, the password is replaced by stars.
 
 ### Output generated
-Suggested Password|Password Strength
-`Tp!bty1pb@1$`|**Very Strong**
+`Tp!bty1pb@1$`
 
 ## Other
 
@@ -75,5 +74,5 @@ This page was created as an all-inclusive page with no calls outside itself.  Th
 
 ## Future Work
 
-*Modify this extension to allow the user to customize the substitution and strength scale of the password.
-*Publish this extension to the Chrome extension store
+* Modify this extension to allow the user to customize the substitution and strength scale of the password.
+* Publish this extension to the Chrome extension store

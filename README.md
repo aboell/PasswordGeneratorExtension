@@ -19,6 +19,7 @@ Download four files and place them in a dedicated directory.  The files to downl
 * manifest.json
 * popup.html
 * popup.js
+
 Once the files are downloaded and placed in a dedicated directory, within Chrome go to Settings icon (3 dots in the top right corner of your browser), click on More Tools, then Extensions.  At the Extensions page, make sure the Developer checkbox is checked.  Once checked, a row of buttons will be displayed.  Click the button "Load unpacked extension..." and navigate to the folder containing the files and click Ok.  The extension will be loaded in your browser and will appear as a little padlock icon next to the Settings icon.
 
 ## Algorithm
